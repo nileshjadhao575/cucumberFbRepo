@@ -24,7 +24,7 @@ public class PageClass {
 	
 	
 	public void username() {
-		userid.sendKeys("nilesh888@gmail.com");
+		userid.sendKeys("nilesh@gmail.com");
 	}
 	
 	public void password () {
